@@ -3,5 +3,18 @@ body {
     color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif ;
     margin-bottom: 100px;
+}
 
+header {
+    border-bottom: solid 2px bisque;
+    padding: 20px;
+    font-size: 30px;
+    color: black;
+}
+
+section {
+    background-color: darkblue;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
 }
